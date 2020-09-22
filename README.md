@@ -54,3 +54,5 @@ Define and implement the project dependency constraints.
  Define and implement the constraint that the profit margin, i.e. the difference between the value of all delivered projects and the cost of all required subcontractors, is at least €2500. 
  - **Task H**
   Solve the CP-SAT model and determine how many possible solutions satisfy all the constraints . For each solution, determine what projects are taken on  which contractors work on which projects in which month , and what is the profit margin.
+
+Note: Each of the tasks' mentioned above are highlighted as comments in the python file.
