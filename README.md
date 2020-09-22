@@ -35,6 +35,8 @@ The goal is to determine which projects can be delivered and what subcontractors
 ## Solution
 Below are the tasks carried out in the ProjectPlanning.py file. 
 
+**Python Libraries Used:** Google OR Tools cp_model, Pandas
+
 - **Task A**. 
 Load the excel file data.xlsx and extract all relevant information. No values are hardcoded and everything is extracted and stored in as pandas dataframe. 
 
